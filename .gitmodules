@@ -1,0 +1,60 @@
+[submodule "CDI_yara"]
+	path = CDI_yara
+	url = https://github.com/CyberDefenses/CDI_yara/
+[submodule "malware-signatures"]
+	path = malware-signatures
+	url = https://github.com/citizenlab/malware-signatures
+[submodule "yara_rules"]
+	path = yara_rules
+	url = https://github.com/f0wl/yara_rules
+[submodule "YARA-rules"]
+	path = YARA-rules
+	url = https://github.com/fboldewin/YARA-rules
+[submodule "yara-rules"]
+	path = yara-rules
+	url = https://github.com/godaddy/yara-rules
+[submodule "Open-Source-YARA-rules"]
+	path = Open-Source-YARA-rules
+	url = https://github.com/mikesxrs/Open-Source-YARA-rules
+[submodule "reversinglabs-yara-rules"]
+	path = reversinglabs-yara-rules
+	url = https://github.com/reversinglabs/reversinglabs-yara-rules
+[submodule "rules"]
+	path = rules
+	url = https://github.com/Yara-Rules/rules
+[submodule "YaraRules"]
+	path = YaraRules
+	url = https://github.com/kevthehermit/YaraRules
+[submodule "signator-rules"]
+	path = signator-rules
+	url = https://github.com/malpedia/signator-rules
+[submodule "threat-intel"]
+	path = threat-intel
+	url = https://github.com/volexity/threat-intel
+[submodule "malware_analysis"]
+	path = malware_analysis
+	url = https://github.com/telekom-security/malware_analysis
+[submodule "yara-forensics"]
+	path = yara-forensics
+	url = https://github.com/Xumeiquer/yara-forensics
+[submodule "Yara-Rules"]
+	path = Yara-Rules
+	url = https://github.com/advanced-threat-research/Yara-Rules
+[submodule "lw-yara"]
+	path = lw-yara
+	url = https://github.com/Hestat/lw-yara
+[submodule "YARA-Signatures"]
+	path = YARA-Signatures
+	url = https://github.com/jeFF0Falltrades/YARA-Signatures
+[submodule "Icewater"]
+	path = Icewater
+	url = https://github.com/SupportIntelligence/Icewater
+[submodule "Yara-Unprotect"]
+	path = Yara-Unprotect
+	url = https://github.com/fr0gger/Yara-Unprotect
+[submodule "jpcert-yara"]
+	path = jpcert-yara
+	url = https://github.com/JPCERTCC/jpcert-yara
+[submodule "yarasploit"]
+	path = yarasploit
+	url = https://github.com/thewhiteninja/yarasploit
