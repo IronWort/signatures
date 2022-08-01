@@ -28,8 +28,4 @@ REPOS=(
 "https://github.com/thewhiteninja/yarasploit"
 )
 
-#for REPO in ${REPOS[@]}; 
-#do
-#	git submodule add $REPO;
-#done
 git submodule update --recursive --remote
