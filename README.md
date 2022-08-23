@@ -1,2 +1,3 @@
 # YARA signatures
-Collection of YARA rules from github.
+
+Collection public of YARA rules from github.
